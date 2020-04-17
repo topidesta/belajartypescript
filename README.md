@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c6d91f1e-c973-4fb5-8be4-33220497aa07/deploy-status)](https://app.netlify.com/sites/belajartypescript/deploys)
+
 # Website
 
 Belajar Typescript dibuat dengan [Docusaurus 2](https://v2.docusaurus.io/)
